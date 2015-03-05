@@ -1,0 +1,31 @@
+body {
+  background-image: url('Metal.jpg');
+  margin: 0;
+  padding: 0;
+}
+
+
+.miller_title {
+  padding: 30px;
+  text-align: center;
+  display: block;
+  font-family: Letter Gothic Std;
+  font-size: 30pt;
+  color: white;
+  letter-spacing: 43px;
+}
+
+.title_strip {
+  margin-top: 45px;
+  height: 100px;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.logo {
+  float: right;
+  display: inline;
+  margin-top: -80px;
+  margin-right: 60%;
+  width: 90px;
+  height: 65px;
+}
